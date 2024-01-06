@@ -120,8 +120,8 @@ nav .container .nav-bar {
 }
 nav .container .nav-bar .bi-x-lg {
   position: absolute;
-  top: 60px;
-  right: 20px;
+  top: 10px;
+  right: 10px;
   font-size: 60px;
 }
 nav .container .nav-bar .left-nav {
