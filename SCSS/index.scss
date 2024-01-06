@@ -625,9 +625,16 @@ footer{
         }
     }
     #blog{
-        margin-top: 100px;
+        margin-top: -100px;
         .container{
             .in-blog{
+                .blog-top{
+                    .input{
+                        input{
+                            width: 100%;
+                        }
+                    }
+                }
                 .blog-carts{
                     grid-template-columns: repeat(1,auto);
                 }
