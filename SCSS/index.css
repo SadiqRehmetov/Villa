@@ -377,6 +377,17 @@ nav .container .nav-bar .right-nav .right ul li a {
   align-items: center;
   gap: 20px;
 }
+#blog .container .in-blog .blog-top .input {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#blog .container .in-blog .blog-top .input input {
+  padding: 10px 20px;
+  border-radius: 20px;
+  width: 60%;
+}
 #blog .container .in-blog .blog-top h2 {
   width: 70%;
   text-align: center;
