@@ -563,6 +563,9 @@ footer .container .in-footer .icons i:hover {
   #blog {
     margin-top: -100px;
   }
+  #blog .container .in-blog .blog-top .input {
+    width: 100%;
+  }
   #blog .container .in-blog .blog-top .input input {
     width: 100%;
   }
